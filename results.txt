@@ -9,4 +9,4 @@ Parallel: (40 threads)
 	Roughly 13mins? Can't get the output to work at the mo.
 
 	(80 threads):
-		?
+		./words-parallel.py  1091.37s user 5004.94s system 724% cpu 14:01.88 total
