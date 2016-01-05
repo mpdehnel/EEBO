@@ -1,0 +1,12 @@
+Results from EEBO processing stuff:
+
+Non-Parallel:
+	Time to process 1000 words: ~13s
+	Time to process 271126 words: /words2.py  842.86s user 426.92s system 34% cpu 1:01:03.80 total == 3663.8s
+		== .013513274s per word. == 13.5ms
+
+Parallel: (40 threads)
+	Roughly 13mins? Can't get the output to work at the mo.
+
+	(80 threads):
+		?
