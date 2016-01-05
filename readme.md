@@ -1,6 +1,6 @@
-= EEBO-TCP Hacking =
+# EEBO-TCP Hacking
 
-Martin Dehnel-Wild, Katriel Cohn-Gordon, Reuben Cohn-Gordon.
+### Martin Dehnel-Wild, Katriel Cohn-Gordon, Reuben Cohn-Gordon.
 
 Basic idea is as follows:
 
